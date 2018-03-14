@@ -74,6 +74,7 @@
  */
 
 //Example of modification for git
+//First example commit for git
 
 #include "Copter.h"
 
